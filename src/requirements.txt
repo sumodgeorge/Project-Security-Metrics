@@ -11,7 +11,7 @@ charset-normalizer==2.0.10
 click==8.0.3
 colorama==0.4.4
 Deprecated==1.2.13
-Django==4.1.10
+Django==4.2.27
 django-debug-toolbar==3.2.4
 django-redis==5.2.0
 fire==0.4.0
@@ -39,14 +39,14 @@ regex==2021.11.10
 requests==2.31.0
 Rx==3.2.0
 six==1.16.0
-sqlparse==0.4.4
+sqlparse==0.5.4
 termcolor==1.1.0
 toml==0.10.2
 tomli==1.2.3
 typed-ast==1.5.1
 typing-extensions==4.0.1
 tzdata==2021.5
-urllib3==1.26.7
+urllib3==2.6.0
 websockets==10.1
 wrapt==1.13.3
 yarl==1.7.2
