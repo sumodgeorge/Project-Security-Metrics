@@ -1,4 +1,4 @@
-aiohttp==3.8.1
+aiohttp==3.13.3
 aiosignal==1.2.0
 appdirs==1.4.4
 asgiref==3.4.1
@@ -46,7 +46,7 @@ tomli==1.2.3
 typed-ast==1.5.1
 typing-extensions==4.0.1
 tzdata==2021.5
-urllib3==1.26.7
+urllib3==2.6.3
 websockets==10.1
 wrapt==1.13.3
 yarl==1.7.2
